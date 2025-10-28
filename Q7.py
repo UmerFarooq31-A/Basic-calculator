@@ -13,5 +13,6 @@ elif opp == "/":
 else:
       print("syntax error")
 print("result is", total)
-print (round(total,-1))
+
+
 
